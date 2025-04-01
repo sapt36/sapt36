@@ -4,6 +4,11 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on 3D reconstruction for plant phenotyping.
-- 🌱 I’m currently learning SLAM(Simantaneous Localization And Mapping).
-- 📫 How to reach me: 853ujm@gmail.com
+- 🎓 I’m currently working on 3D reconstruction for plant phenotyping.
+- 🤖 I’m currently learning SLAM (Simultaneous Localization And Mapping).
+- 💻 Seeking for 2026 fall Software Engineer Full Time Job.
+- 📫 How to reach me: 853ujm@gmail.com.
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/andrewchen36"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
