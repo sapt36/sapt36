@@ -8,7 +8,4 @@
 - 🤖 I’m currently learning SLAM (Simultaneous Localization And Mapping).
 - 💻 Seeking for 2026 fall Software Engineer Full Time Job.
 - 📫 How to reach me: 853ujm@gmail.com.
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/andrewchen36"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+- My LinledIn Account <a href="https://www.linkedin.com/in/andrewchen36"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
