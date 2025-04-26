@@ -10,6 +10,11 @@
 - 📫 How to reach me: 853ujm@gmail.com.
 - ![linkedin](https://github.com/user-attachments/assets/9a327693-27e3-4b51-93b3-13c8f2b73315)&thinsp; &thinsp;How to reach me: [andrewchen36](https://www.linkedin.com/in/andrewchen36)
 
+<p align="center">
+<a href="https://github.com/sapt36?tab=repositories">
+  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=sapt36&layout=compact&hide=jupyter+notebook,TeX,css&hide_border=true" />
+</a>
+</p>
 
 
 
