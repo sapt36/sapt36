@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/sapt36?tab=repositories">
-  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=sapt36&layout=compact&hide=jupyter+notebook,TeX,css&hide_border=true" />
+  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=sapt36&layout=compact&hide=TeX&hide_border=true" />
 </a>
 </p>
 
