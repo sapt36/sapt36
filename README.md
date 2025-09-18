@@ -4,7 +4,7 @@
 
 ## Hi！Welcome to My Github！👋
 
-- 🎓 I’m currently working on 3D reconstruction and point cloud analysis for plant phenotyping.
+- 🎓 I’m currently working on 3D reconstruction and point cloud processing for plant phenotyping.
 - 🤖 I’m currently learning structure-from-motion (SfM) and Iterative Closest Point (ICP).
 - 💻 Seeking for 2026 fall Software Engineer Full Time Job.
 - 📫 How to reach me: 853ujm@gmail.com.
