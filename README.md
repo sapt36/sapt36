@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhhdzA5Y3IyazhldDdkNXJpMDQ5cGJ2YWU4b3h3c3BqbHl0N2gzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhH2o6SHOjOtphR3DR/giphy.gif">
+<img src="https://gear5world.com/cdn/shop/articles/luffy_mugiwara_chapeau_paille_one_piece_96830508-1ee0-4a35-9e41-596d52bb7dbc.jpg?v=1759943999" width="500" height=="500"
 </p>
 
 ## Hi！Welcome to My Github！👋
