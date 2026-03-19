@@ -5,10 +5,9 @@
 ## Hi！Welcome to My Github！👋
 
 - 🎓 I’m currently working on 3D reconstruction and point cloud processing for plant phenotyping.
-- 🤖 I’m currently learning structure-from-motion (SfM) and Iterative Closest Point (ICP).
-- 💻 Seeking for 2026 fall Software Engineer Full Time Job.
+- 💻 Seeking for 2027 Software Engineer Full Time Job.
 - 📫 How to reach me: 853ujm@gmail.com.
-- ![linkedin](https://github.com/user-attachments/assets/9a327693-27e3-4b51-93b3-13c8f2b73315)&thinsp; &thinsp;How to reach me: [andrewchen36](https://www.linkedin.com/in/andrewchen36)
+-  &nbsp;![linkedin](https://github.com/user-attachments/assets/9a327693-27e3-4b51-93b3-13c8f2b73315)&thinsp; &thinsp;How to reach me: [andrewchen36](https://www.linkedin.com/in/andrewchen36)
 
 <p align="center">
 <a href="https://github.com/sapt36?tab=repositories">
